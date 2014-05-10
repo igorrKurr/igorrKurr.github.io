@@ -1,0 +1,11 @@
+# Site settings
+title: Wanna Be Gifted
+email: i.v.kurinnoy@mail.com
+description: "This is my first site"
+baseurl: ""
+url: "http://iggorkurr.github.io"
+username: "iggorKurr"
+tw_username: "wanna_be_gifted"
+# Build settings
+markdown: kramdown
+permalink: pretty
