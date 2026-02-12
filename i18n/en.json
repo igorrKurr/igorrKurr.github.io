@@ -1,0 +1,173 @@
+{
+  "description": "Full Stack Engineer who cares about building scalable, reliable systems with clean, thoughtful code.",
+  "nav": {
+    "about": "about",
+    "experience": "experience",
+    "contact": "contact"
+  },
+  "hero": {
+    "name": "Ihor Kurinnyi",
+    "title": "Full Stack Engineer",
+    "p1": "focused on delivering clean, efficient, and maintainable solutions to complex technical challenges. I approach problem-solving with analytical thinking and strong attention to detail, aiming to build systems that are scalable, reliable, and easy to understand. I value simplicity in design and believe clear, well-structured code is essential for long-term success.",
+    "p2": "I prioritize quality and sustainability throughout the development process. Whether working on complex features or routine tasks, I maintain consistency, responsibility, and high standards. I am comfortable taking ownership from concept to implementation, ensuring solutions are practical, stable, and aligned with business goals.",
+    "p3": "I also value collaboration and knowledge sharing, with experience mentoring junior developers and contributing to a positive team environment. Outside of work, I enjoy photography and dance — creative outlets that strengthen my focus, discipline, and attention to detail."
+  },
+  "contact": {
+    "status": "Available for hire",
+    "email_label": "Email",
+    "email_url": "mailto:kurinnoyi@gmail.com",
+    "github_label": "GitHub",
+    "github_url": "https://github.com/igorrKurr",
+    "linkedin_label": "Linkedin",
+    "linkedin_url": "https://www.linkedin.com/in/ihor-kurinnyi-83a5a0105"
+  },
+  "skills": {
+    "heading": "Technical Skills",
+    "item_1": {
+      "title": "Ruby",
+      "category": "Language",
+      "description": "Backend development, OOP, TDD",
+      "experience_years": "11+",
+      "experience_label": "years of experience"
+    },
+    "item_2": {
+      "title": "JavaScript",
+      "category": "Language",
+      "description": "Frontend & backend development, SPA, Web APIs",
+      "experience_years": "11+",
+      "experience_label": "years of experience"
+    },
+    "item_3": {
+      "title": "TypeScript",
+      "category": "Language",
+      "description": "Typed JavaScript, scalable frontend architecture",
+      "experience_years": "5+",
+      "experience_label": "years of experience"
+    },
+    "item_4": {
+      "title": "React.js",
+      "category": "Framework",
+      "description": "SPA development, state management, integrations",
+      "experience_years": "7+",
+      "experience_label": "years of experience"
+    },
+    "item_5": {
+      "title": "React Native",
+      "category": "Framework",
+      "description": "Cross-platform mobile application development",
+      "experience_years": "6+",
+      "experience_label": "years of experience"
+    },
+    "item_6": {
+      "title": "Ruby on Rails",
+      "category": "Framework",
+      "description": "REST APIs, backend systems, RSpec testing",
+      "experience_years": "9+",
+      "experience_label": "years of experience"
+    },
+    "item_7": {
+      "title": "Ember.js",
+      "category": "Framework",
+      "description": "SPA architecture, Ember-data",
+      "experience_years": "4+",
+      "experience_label": "years of experience"
+    },
+    "item_8": {
+      "title": "Node.js",
+      "category": "Backend",
+      "description": "Web services, WebRTC, API development",
+      "experience_years": "5+",
+      "experience_label": "years of experience"
+    },
+    "item_9": {
+      "title": "ElasticSearch",
+      "category": "Database",
+      "description": "Full-text search, indexing, data automation",
+      "experience_years": "5+",
+      "experience_label": "years of experience"
+    },
+    "item_10": {
+      "title": "PostgreSQL",
+      "category": "Database",
+      "description": "Relational database design and optimization",
+      "experience_years": "9+",
+      "experience_label": "years of experience"
+    },
+    "item_11": {
+      "title": "MongoDB",
+      "category": "Database",
+      "description": "NoSQL data modeling",
+      "experience_years": "4+",
+      "experience_label": "years of experience"
+    }
+  },
+  "experience": {
+    "title": "Work Experience",
+    "item_1": {
+      "period": "November 2023 — October 2024",
+      "role": "Senior Fullstack Developer",
+      "company": "Opacity Labs",
+      "description": "Led development of backend infrastructure and platform integrations, reverse-engineered WebAPIs, and optimized cross-platform solutions using React Native, React.js, and Node.js. Improved system performance, reliability, and scalability for enterprise-level applications."
+    },
+    "item_2": {
+      "period": "February 2022 — October 2023",
+      "role": "Senior Frontend Developer",
+      "company": "DIMO",
+      "description": "Designed, implemented, and maintained the core mobile application with React Native, enhancing user experience, performance, and stability. Collaborated closely with backend and QA teams to ensure seamless feature delivery."
+    },
+    "item_3": {
+      "period": "September 2017 — January 2022",
+      "role": "Senior Fullstack Developer",
+      "company": "Chattermill",
+      "description": "Delivered end-to-end development of the main web application and product integrations, implemented automation systems, and developed private APIs with React.js, Ruby on Rails, and ElasticSearch. Improved platform scalability, efficiency, and reliability."
+    },
+    "item_4": {
+      "period": "September 2016 — August 2017",
+      "role": "Senior Fullstack Developer",
+      "company": "Roomchecking",
+      "description": "Built and maintained web and mobile applications for the hotel business ecosystem, including reservation management, maintenance tracking, and a cross-integrated chat solution. Streamlined operations and improved user experience across devices."
+    },
+    "item_5": {
+      "period": "June 2016 — September 2016",
+      "role": "Senior Frontend Developer / Team Leader",
+      "company": "NCube (Venture.co)",
+      "description": "Enhanced frontend architecture, SEO, and design quality, while leading collaboration with backend developers. Optimized application performance and maintainability, improving overall delivery efficiency."
+    },
+    "item_6": {
+      "period": "May 2015 — May 2016",
+      "role": "Senior Frontend Developer",
+      "company": "Roomchecking",
+      "description": "Developed a comprehensive dashboard interface, offline functionality, mobile apps, and Pusher.io integrations. Increased user engagement and improved operational efficiency through responsive and reliable frontend solutions."
+    },
+    "item_7": {
+      "period": "November 2015 — December 2015",
+      "role": "Full-Stack Web Developer",
+      "company": "TecSynt (Face to Face)",
+      "description": "Developed a WebRTC-based video consultation platform with integrated social features and chat functionality. Delivered a robust real-time communication system supporting high-quality video and smooth user interactions."
+    },
+    "item_8": {
+      "period": "October 2015 — December 2015",
+      "role": "Full-Stack Web Developer",
+      "company": "John Dow (YourGrapevine)",
+      "description": "Implemented a complex search system, Google Maps integration, file upload capabilities, and image processing workflows. Improved platform usability and performance, enabling richer user experiences."
+    },
+    "item_9": {
+      "period": "December 2014 — May 2015",
+      "role": "Full-Stack Web Developer",
+      "company": "Magtuner SA",
+      "description": "Built a collaborative magazine editor with undo/redo functionality and RSpec testing. Improved team collaboration and content creation efficiency through reliable and maintainable features."
+    },
+    "item_10": {
+      "period": "June 2014 — December 2014",
+      "role": "Full-Stack Web Developer",
+      "company": "Zamepage",
+      "description": "Developed a document-sharing web application with robust UI, backend logic, and testing. Ensured secure and smooth document management for end users."
+    },
+    "item_11": {
+      "period": "December 2013 — June 2014",
+      "role": "Full-Stack Web Developer",
+      "company": "Bongo R&D (Mapidy)",
+      "description": "Contributed to a collaborative task management system with tree-based visualization, RSpec testing, and ElasticSearch integration. Enhanced productivity and search efficiency within the platform."
+    }
+  }
+}
